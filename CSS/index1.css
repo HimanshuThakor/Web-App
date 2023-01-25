@@ -1,0 +1,55 @@
+*{font-weight: bold;font-size :35px; font-style: italic;}
+#h div{
+    text-align: center;
+    float: left;
+    height: 500px;
+   
+}
+#hi{
+    margin-bottom: 10px;
+    width: 50%;
+    background-color: blue;
+     margin-right: 10px;
+     padding-right: 
+     10px;
+}
+#h2{
+    width: 30%;
+    margin-right: 10px;
+    background-color:orange;
+
+}
+#h3{
+    width: 15%;
+    background-color: lightblue;
+}
+#H2{
+    border-style: out;
+    text-align: center;
+    color: green;
+    border-radius: 50px;
+    background-color: black;
+    font-size: 35px;
+
+}
+.H3{
+    border: 4px solid gold;
+    color: gold;
+    background-color: black;
+    shape-margin: 10px;
+    border-radius: 50px;
+}
+#img{
+    background-repeat: no-repeat;
+   background-position: bottom center;
+    background-image: url('/IMAGE/my_snap.png');
+} 
+.Head{
+    
+    border-radius: 100px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+.bo{
+    text-shadow: 4px 4px 5px  red;
+}
