@@ -1,4 +1,5 @@
-*{font-weight: bold;font-size :35px; font-style: italic;}
+*{font-weight: bold;font-size :25px; font-style: italic;}
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 #h div{
     text-align: center;
     float: left;
@@ -52,4 +53,7 @@
 }
 .bo{
     text-shadow: 4px 4px 5px  red;
+}
+#Fonts{
+    font-family: 'Aboreto', cursive;
 }
